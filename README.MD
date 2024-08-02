@@ -20,7 +20,6 @@ cd BonziBuddy-TTS
 pip install -r requirements.txt
 py main.py
 ```
-Modify the ""
 
 ## Credits
 TETYYS for maintaining the SAPI4 site.
